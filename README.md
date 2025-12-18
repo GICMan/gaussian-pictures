@@ -1,0 +1,1 @@
+See Jupyter Notebook `2d-splatting.ipynb`
