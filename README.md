@@ -1,4 +1,4 @@
-# Picture Splatting
+# Gaussian Pictures
 
 An exploration of gaussian splatting in 2D.
 
